@@ -15,9 +15,6 @@ Here are some ideas to get you started:
 
 <h1 align="center">👋<br> I'm  <a href="www.linkedin.com/in/paula-galindo-alvear">Paula Galindo </a></h1>
 
-
-
-
 <div>
   <h2> About me  </h2>
   <div>
@@ -34,7 +31,7 @@ Here are some ideas to get you started:
 
 </div>
  
-<h3> Languages and tools 💻 </h3>
+## Languages and tools 💻
 
 <img src = "https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
 
@@ -94,75 +91,13 @@ Here are some ideas to get you started:
 
 <img src = "https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
 
+## Currently Learning 📚
 
-
-<div align="center" valign="top"><br>
-  <a href="https://www.python.org/" target="_blank" rel="noreferrer">
-    <img align="center" alt="Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
-  </a>
-
-  <a href="https://jupyter.org/" target="_blank" rel="noreferrer">
-    <img align="center" alt="Jupyter" width="40" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" />
-  </a>
-
-  <a href="https://www.javascript.com/" target="_blank" rel="noreferrer">
-    <img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  </a>
-
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  </a>
+    <img src = "https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
+    
  
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img align="center" alt="Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
-  </a>
-  <a href="https://github.com/" target="_blank" rel="noreferrer">
-    <img align="center" alt="Github" height="35" width="35" src="https://cdn.iconscout.com/icon/free/png-512/github-153-675523.png">
-  </a>
 
-  <a href="https://www.linuxfoundation.org/" target="_blank" rel="noreferrer">
-  <img align="center" alt="linux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
-  </a>
+    
 
-  <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer">
-    <img align="center" alt="Azure" width="40" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" />
-  </a>
-
-  <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer">
-  <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="30" /> </a> 
-  
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
-  <img align="center"src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="30"/> 
-  </a>
-
-</div><br>
-
-
-I am a lifelong learner and I love to acquire new skills and knowledge. Over the years, I have gained proficiency in a wide range of languages and tools, including:
-
-Python
-Jupyter
-Git
-GitHub
-Linux
-AWS
-MATLAB
-MySQL
-TensorFlow
-Arduino
-Raspberry Pi
-Java
-C++
-C#
-ROS
-Currently, I am actively learning the following:
-
-Oracle
-Django
-Tableau
-Power BI
-.NET
+    
 I am excited to share my knowledge and experience with others and to collaborate on projects that make a difference. Thanks for visiting my GitHub repository!
