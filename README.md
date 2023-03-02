@@ -93,11 +93,27 @@ Here are some ideas to get you started:
 
 ## Currently Learning 📚
 
-    <img src = "https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
+ <img src = "https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
+ <img src = "https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
     
- 
+ <img src = "https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white"/>
+    
+ <img src = "https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white"/>
+    
+  <img src = "https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white"/>
+    
+  <img src = "https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+     
 
-    
+<h3> Social Media </h3>
+</div>
 
+<div align="center">
+  <a href="https://www.instagram.com/_aleepsy/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/apcastillo/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="mailto:apcastillo94@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white&color=red" target="_blank"></a>
+  <a href="https://twitter.com/_aleepsy"><img src="https://img.shields.io/badge/-Twitter-%1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&color=1DA1F2" target="_blank"></a>
+</div>
     
+  
 I am excited to share my knowledge and experience with others and to collaborate on projects that make a difference. Thanks for visiting my GitHub repository!
